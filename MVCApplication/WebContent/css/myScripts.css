@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+
+#head{
+	height:100px;background-color:yellow;text-align:center;
+	
+	
+}
+
+#foot{
+	
+	height:50px;background-color:black;text-align:center;
+	
+}
+
+#index{
+	height:100px;
+	color:#000;
+	text-align:center;
+	border:solid 10px #555;
+}
+a{
+	text-decoration:none;
+}
